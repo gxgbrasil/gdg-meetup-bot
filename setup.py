@@ -11,7 +11,7 @@ setup(
     description = "GDG Aracaju Bot",
     long_description = codecs.open("README.md", 'r', encoding='utf-8').read(),
     license = "GPLv2",
-    py_modules = ["gdgajubot"],
+    packages = ["gdgajubot"],
     scripts = ['scripts/gdgajubot'],
     install_requires=[
         "Beaker==1.8.0",

@@ -1,4 +1,5 @@
 venv/
+gdgajubot.egg-info/
 *.pyc
 bot.log
 .cache
